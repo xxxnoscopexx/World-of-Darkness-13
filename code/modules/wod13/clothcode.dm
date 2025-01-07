@@ -48,7 +48,7 @@
 	icon_state = "nosferatu_f"
 
 /obj/item/clothing/under/vampire/toreador
-	name = "flamboiant outfit"
+	name = "flamboyant outfit"
 	desc = "Some sexy clothes."
 	icon_state = "toreador_m"
 
@@ -1172,6 +1172,24 @@
 	icon_state = "balaclava"
 	inhand_icon_state = "balaclava"
 	flags_inv = HIDEFACE|HIDEHAIR|HIDEFACIALHAIR|HIDESNOUT
+	visor_flags_inv = HIDEFACE|HIDEFACIALHAIR|HIDESNOUT
+	w_class = WEIGHT_CLASS_SMALL
+
+/obj/item/clothing/mask/vampire/tragedy
+	name = "tragedy"
+	desc = "The Greek Tragedy mask."
+	icon_state = "tragedy"
+	inhand_icon_state = "tragedy"
+	flags_inv = HIDEFACE|HIDEFACIALHAIR|HIDESNOUT
+	visor_flags_inv = HIDEFACE|HIDEFACIALHAIR|HIDESNOUT
+	w_class = WEIGHT_CLASS_SMALL
+
+/obj/item/clothing/mask/vampire/comedy
+	name = "comedy"
+	desc = "The Greek Comedy mask."
+	icon_state = "comedy"
+	inhand_icon_state = "comedy"
+	flags_inv = HIDEFACE|HIDEFACIALHAIR|HIDESNOUT
 	visor_flags_inv = HIDEFACE|HIDEFACIALHAIR|HIDESNOUT
 	w_class = WEIGHT_CLASS_SMALL
 
