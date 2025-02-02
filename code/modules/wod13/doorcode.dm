@@ -539,12 +539,9 @@
 	baseicon = "wood"
 	burnable = TRUE
 
-/obj/structure/vampdoor/stripwood
-	icon_state = "wood-1"
-	baseicon = "wood"
-	burnable = TRUE
+/obj/structure/vampdoor/wood/strip
 	lock_id = "strip"
-	lockpick_difficulty = 12
+	lockpick_difficulty = 8
 
 /obj/structure/vampdoor/wood/old
 	icon_state = "oldwood-1"
