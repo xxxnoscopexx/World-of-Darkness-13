@@ -39067,6 +39067,9 @@
 	},
 /area/vtm/interior/endron_facility)
 "ixd" = (
+/obj/structure/table/wood/poker,
+/obj/item/dice/d6,
+/obj/item/dice/d6,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/casino)
 "ixo" = (
@@ -226187,10 +226190,10 @@ aiA
 aiA
 aiA
 aiA
-aiA
-aiA
-aiA
 vXC
+aiA
+aiA
+aiA
 aiA
 aiA
 aiA
