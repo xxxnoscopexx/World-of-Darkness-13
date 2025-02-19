@@ -55,9 +55,6 @@
 /obj/structure/vaultdoor/key
 	uses_key_lock = TRUE
 
-/obj/structure/vaultdoor/key/triad
-	lock_id = "triad"
-
 /obj/structure/vaultdoor/pincode_key
 	uses_pincode_lock = TRUE
 	uses_key_lock = TRUE
