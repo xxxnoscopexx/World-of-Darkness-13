@@ -571,6 +571,14 @@
 	icon_state = "cam-1"
 	baseicon = "cam"
 
+/obj/structure/vampdoor/simple/triad
+	locked = TRUE
+	lock_id = "triad"
+	lockpick_difficulty = 8
+
+/obj/structure/vampdoor/simple/triad/high_security
+	lockpick_difficulty = 16
+
 /obj/structure/vampdoor/reinf
 	icon_state = "reinf-1"
 	baseicon = "reinf"
