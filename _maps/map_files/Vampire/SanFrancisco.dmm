@@ -31270,12 +31270,7 @@
 /area/vtm/interior/millennium_tower/ventrue)
 "eBj" = (
 /obj/effect/turf_decal/siding/white,
-/obj/structure/vampdoor/old{
-	lock_id = "laundromat";
-	locked = 1;
-	lockpick_difficulty = 11;
-	name = "Laundromat door"
-	},
+/obj/structure/vampdoor/simple/triad,
 /turf/open/floor/plating/circled,
 /area/vtm/interior/laundromat)
 "eBu" = (
@@ -42944,9 +42939,7 @@
 /area/vtm/interior/techshop)
 "kzN" = (
 /obj/structure/rack,
-/obj/item/gun/ballistic/automatic/vampire/ak74{
-	name = "\improper sssssssssssssss"
-	},
+/obj/item/gun/ballistic/automatic/vampire/ak74,
 /obj/item/gun/ballistic/automatic/vampire/ak74,
 /obj/item/ammo_box/magazine/vamp545,
 /obj/item/ammo_box/magazine/vamp545,
@@ -46542,10 +46535,6 @@
 /obj/effect/landmark/npcability,
 /turf/open/floor/plating/sidewalkalt,
 /area/vtm/chinatown)
-"mAJ" = (
-/obj/structure/vaultdoor/key/triad,
-/turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
 "mAK" = (
 /obj/structure/chair/plastic,
 /obj/effect/decal/cardboard,
@@ -49253,12 +49242,8 @@
 /obj/effect/turf_decal/siding/white{
 	dir = 4
 	},
-/obj/structure/vampdoor/old{
-	dir = 8;
-	lock_id = "triad";
-	locked = 1;
-	lockpick_difficulty = 16;
-	name = "Shady Laundromat door"
+/obj/structure/vampdoor/simple/triad{
+	dir = 4
 	},
 /turf/open/floor/plating/parquetry,
 /area/vtm/interior/laundromat)
@@ -49820,12 +49805,7 @@
 /area/vtm/interior/wyrm_corrupted)
 "ouo" = (
 /obj/effect/turf_decal/siding/white,
-/obj/structure/vampdoor/old{
-	lock_id = "laundromat";
-	locked = 1;
-	lockpick_difficulty = 11;
-	name = "Laundromat door"
-	},
+/obj/structure/vampdoor/simple/triad,
 /turf/open/floor/plating/parquetry,
 /area/vtm/interior/restaurant)
 "out" = (
@@ -58814,13 +58794,9 @@
 /turf/open/floor/wood,
 /area/vtm/interior/millennium_tower/f3)
 "tbB" = (
-/obj/effect/decal/litter,
-/obj/machinery/light/small{
-	dir = 8;
-	pixel_x = 16
-	},
-/turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/obj/matrix,
+/turf/closed/wall/vampwall,
+/area/space)
 "tbL" = (
 /obj/structure/flora/ausbushes/ywflowers,
 /obj/structure/flora/ausbushes/ppflowers,
@@ -61335,7 +61311,6 @@
 /obj/structure/window/reinforced/indestructable{
 	dir = 1
 	},
-/obj/machinery/mineral/equipment_vendor/fastfood/triad,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/restaurant)
 "uxj" = (
@@ -62712,17 +62687,6 @@
 /obj/effect/landmark/start/sweeper,
 /turf/open/floor/plating/sidewalk,
 /area/vtm/fishermanswharf)
-"viP" = (
-/obj/structure/vampdoor/old{
-	dir = 8;
-	lock_id = "triad";
-	lockpick_difficulty = 9
-	},
-/obj/item/reagent_containers/food/drinks/beer/vampire{
-	list_reagents = list(/datum/reagent/consumable/ethanol/beer=0)
-	},
-/turf/open/floor/plating/rough,
-/area/vtm/sewer)
 "vjL" = (
 /obj/structure/chair{
 	dir = 1
@@ -64945,12 +64909,8 @@
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior)
 "wqQ" = (
-/obj/structure/vampdoor/old{
-	dir = 8;
-	lock_id = "triad";
-	locked = 1;
-	lockpick_difficulty = 16;
-	name = "Shady Laundromat door"
+/obj/structure/vampdoor/simple/triad{
+	dir = 4
 	},
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/laundromat)
@@ -108201,7 +108161,7 @@ aag
 aag
 aag
 aag
-viP
+aag
 aag
 aag
 aag
@@ -108457,9 +108417,9 @@ aab
 aab
 aab
 aab
-yhp
-oXa
-yhp
+aab
+aab
+aab
 aab
 aab
 aab
@@ -108713,11 +108673,11 @@ aaa
 aaa
 aaa
 aaa
-aab
-yhp
-oXa
-yhp
-aab
+aaa
+aaa
+aaa
+aaa
+aaa
 aaa
 aaa
 aaa
@@ -108970,11 +108930,11 @@ aaa
 aaa
 aaa
 aaa
-aab
-yhp
-oXa
-yhp
-aab
+aaa
+aaa
+aaa
+aaa
+aaa
 aaa
 aaa
 aaa
@@ -109227,11 +109187,11 @@ aaa
 aaa
 aaa
 aaa
-aab
-wyM
-oXa
-yhp
-aab
+aaa
+aaa
+aaa
+aaa
+aaa
 aaa
 aaa
 aaa
@@ -109484,13 +109444,13 @@ aaa
 aaa
 aaa
 aaa
-aab
-yhp
-oXa
-yhp
-aab
-aab
-aab
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
 aaa
 aaa
 aaa
@@ -109741,13 +109701,13 @@ aaa
 aaa
 aaa
 aaa
-aab
-yhp
-oXa
-yhp
-yhp
-yhp
-aab
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
 aaa
 aaa
 aaa
@@ -109998,13 +109958,13 @@ aaa
 aaa
 aaa
 aaa
-aab
-yhp
-oXa
-mAJ
-oXa
-yhp
-aab
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
 aaa
 aaa
 aaa
@@ -110255,26 +110215,26 @@ aaa
 aaa
 aaa
 aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
 aab
 yhp
 yhp
-yhp
-oXa
-yhp
-aab
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aab
-yhp
-yhp
-jYU
+vin
 yhp
 yhp
 aab
@@ -110512,12 +110472,12 @@ aab
 aab
 aab
 aab
-aab
-yhp
-oXa
 tbB
-oXa
-yhp
+aab
+aab
+aab
+aab
+aab
 aab
 aab
 aab
@@ -110773,7 +110733,7 @@ yhp
 yhp
 yhp
 yhp
-vin
+yhp
 yhp
 yhp
 yhp
@@ -116672,7 +116632,7 @@ wyM
 oXa
 bov
 oXa
-qMA
+qqg
 oXa
 oXa
 oXa
