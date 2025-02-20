@@ -9475,7 +9475,7 @@
 "aGF" = (
 /obj/structure/table/reinforced/ctf,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "aGG" = (
 /obj/effect/decal/litter,
 /turf/open/floor/plating/sidewalk,
@@ -17517,7 +17517,7 @@
 	pixel_x = -16
 	},
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "biP" = (
 /obj/structure/chinesesign{
 	dir = 8
@@ -18215,7 +18215,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "blg" = (
 /obj/structure/chinesesign/alt{
 	dir = 1
@@ -18598,7 +18598,7 @@
 /obj/item/storage/fancy/cigarettes/cigars/havana,
 /obj/item/lighter,
 /turf/open/floor/carpet/lone,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "bmu" = (
 /obj/effect/gibspawner/human,
 /turf/open/floor/plating/parquetry/old,
@@ -18762,7 +18762,7 @@
 /area/vtm/interior/mansion)
 "bmW" = (
 /turf/closed/wall/vampwall/old/low/window,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "bmX" = (
 /turf/closed/wall/vampwall/rich,
 /area/vtm/pacificheights)
@@ -19213,7 +19213,7 @@
 "bov" = (
 /obj/manholeup,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "bow" = (
 /obj/structure/roadsign/busstop,
 /turf/open/floor/plating/sidewalk,
@@ -28329,7 +28329,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "cYZ" = (
 /obj/machinery/light/small{
 	pixel_y = 18
@@ -28916,7 +28916,7 @@
 "dnk" = (
 /obj/item/restraints/handcuffs,
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "dnp" = (
 /obj/structure/chair/sofa/corp/right{
 	dir = 1
@@ -32646,7 +32646,7 @@
 	},
 /obj/item/gas_can/full,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "fhU" = (
 /obj/structure/closet/crate/large,
 /obj/effect/decal/pallet,
@@ -33365,7 +33365,7 @@
 /obj/item/clothing/under/syndicate/tacticool,
 /obj/item/clothing/under/syndicate/tacticool,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "fGS" = (
 /obj/structure/vampfence/rich{
 	dir = 4
@@ -33510,7 +33510,7 @@
 	pixel_x = -16
 	},
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "fKG" = (
 /obj/vampire_car/track/volkswagen{
 	access = "graveyard"
@@ -33558,7 +33558,7 @@
 	pixel_x = -16
 	},
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "fLN" = (
 /obj/structure/rack,
 /obj/machinery/light{
@@ -34160,7 +34160,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating/parquetry,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "gcq" = (
 /obj/structure/rack,
 /obj/item/storage/box/actionfigure,
@@ -35298,7 +35298,7 @@
 /area/vtm/interior/giovanni)
 "gFv" = (
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "gFx" = (
 /obj/effect/decal/shadow{
 	icon_state = "shadow-alt";
@@ -37559,7 +37559,7 @@
 	desc = "A curved sword covered in a intricately etched pattern."
 	},
 /turf/open/floor/carpet/lone,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "hJp" = (
 /obj/effect/decal/litter,
 /turf/open/floor/plating/rough/cave,
@@ -38429,7 +38429,7 @@
 	name = "Shady Chinatown Keys"
 	},
 /turf/open/floor/carpet/lone,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "igF" = (
 /obj/structure/stairs/east,
 /turf/open/floor/plating/sidewalk,
@@ -40323,7 +40323,7 @@
 /obj/structure/table,
 /obj/item/storage/firstaid/medical,
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "jbX" = (
 /obj/structure/bloodextractor,
 /turf/open/floor/plating/vampwood,
@@ -42021,7 +42021,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "jYY" = (
 /obj/structure/roadsign/parking,
 /obj/effect/landmark/npcactivity,
@@ -42946,7 +42946,7 @@
 /obj/item/ammo_box/magazine/vamp545,
 /obj/item/ammo_box/magazine/vamp545,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "kzZ" = (
 /obj/structure/railing{
 	dir = 8;
@@ -44917,7 +44917,7 @@
 /obj/item/clothing/gloves/vampire/latex,
 /obj/item/clothing/mask/surgical,
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "lHm" = (
 /obj/effect/decal/cardboard,
 /turf/open/floor/plating/concrete,
@@ -45636,7 +45636,7 @@
 /obj/item/gun/ballistic/shotgun/vampire,
 /obj/item/ammo_box/vampire/c12g,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "mbI" = (
 /obj/structure/chair/wood/wings,
 /turf/open/floor/plating/parquetry,
@@ -46914,7 +46914,7 @@
 	pixel_x = -6
 	},
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "mLk" = (
 /obj/transfer_point_vamp{
 	icon = 'icons/obj/stairs.dmi';
@@ -47977,7 +47977,7 @@
 /obj/item/reagent_containers/food/drinks/bottle/vodka,
 /obj/item/reagent_containers/food/drinks/bottle/vodka,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "nqi" = (
 /obj/structure/vampmap,
 /obj/effect/landmark/npcability,
@@ -50162,7 +50162,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "oEj" = (
 /obj/effect/turf_decal/weather/dirt,
 /obj/structure/fluff/broken_flooring,
@@ -50926,7 +50926,7 @@
 /area/vtm/interior/old_clan_tzimisce_manor)
 "oXa" = (
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "oXb" = (
 /obj/structure/railing{
 	dir = 1;
@@ -51106,7 +51106,7 @@
 "pbj" = (
 /obj/effect/decal/cardboard,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "pbl" = (
 /obj/item/reagent_containers/food/drinks/beer/vampire,
 /turf/open/floor/plating/rough/cave,
@@ -51862,7 +51862,7 @@
 "pxC" = (
 /obj/structure/punching_bag,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "pxQ" = (
 /obj/structure/chair/sofa{
 	dir = 1
@@ -52515,7 +52515,7 @@
 "pNM" = (
 /obj/effect/decal/trash,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "pNN" = (
 /obj/machinery/light{
 	pixel_y = 32
@@ -52893,7 +52893,7 @@
 "qao" = (
 /obj/effect/decal/litter,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "qaF" = (
 /obj/machinery/light/small/red{
 	dir = 1
@@ -53379,7 +53379,7 @@
 "qqg" = (
 /obj/structure/vampdoor/simple/triad/high_security,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "qql" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/gas_can/full,
@@ -54039,7 +54039,7 @@
 "qFQ" = (
 /obj/structure/barricade/sandbags,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "qFR" = (
 /obj/effect/decal/wallpaper/grey,
 /turf/closed/wall/vampwall/junk,
@@ -54151,7 +54151,7 @@
 /obj/structure/table/wood,
 /obj/item/police_radio,
 /turf/open/floor/carpet/lone,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "qId" = (
 /obj/effect/decal/litter,
 /turf/open/floor/plating/rough/cave,
@@ -54321,7 +54321,7 @@
 "qMA" = (
 /obj/structure/vampdoor/simple/triad,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "qNf" = (
 /obj/structure/barrels{
 	icon_state = "barrel5"
@@ -54375,7 +54375,7 @@
 	},
 /obj/structure/methlab,
 /turf/open/floor/plating/toilet,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "qOj" = (
 /obj/structure/closet/crate/large,
 /obj/machinery/light/small{
@@ -54790,7 +54790,7 @@
 "qWl" = (
 /obj/structure/closet/crate/freezer,
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "qWw" = (
 /obj/structure/showcase/machinery/tv,
 /turf/open/floor/plating/parquetry/old,
@@ -55247,7 +55247,7 @@
 /obj/item/ammo_box/magazine/glock9mm,
 /obj/item/ammo_box/magazine/glock9mm,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "rjp" = (
 /turf/open/floor/plating/rough/cave,
 /area/vtm/interior/glasswalker)
@@ -57502,7 +57502,7 @@
 	pixel_x = 16
 	},
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "swX" = (
 /obj/effect/turf_decal/siding/white{
 	dir = 9
@@ -59554,7 +59554,7 @@
 /obj/structure/table/wood,
 /obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "tyj" = (
 /obj/effect/decal/cleanable/blood/footprints{
 	dir = 4
@@ -59564,7 +59564,7 @@
 "tyn" = (
 /obj/item/target,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "tyI" = (
 /obj/effect/decal/bordur{
 	dir = 6
@@ -59591,7 +59591,7 @@
 /obj/item/clothing/gloves/vampire/latex,
 /obj/item/clothing/shoes/vampire/white,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "tAc" = (
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/old_clan_tzimisce_manor)
@@ -61297,7 +61297,7 @@
 	pixel_y = 8
 	},
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "uxc" = (
 /obj/effect/turf_decal/weather/dirt,
 /obj/effect/turf_decal/weather/dirt{
@@ -62313,7 +62313,7 @@
 /obj/structure/table/wood,
 /obj/item/storage/belt/vampire/sheathe/sabre,
 /turf/open/floor/carpet/lone,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "uYD" = (
 /obj/structure/table/wood,
 /obj/item/paper{
@@ -62438,7 +62438,7 @@
 /area/vtm/interior/bianchiBank)
 "vbk" = (
 /turf/open/floor/plating/parquetry,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "vbm" = (
 /obj/machinery/light/small/red{
 	dir = 1
@@ -62667,7 +62667,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "vit" = (
 /obj/structure/chair/sofa/corp/corner{
 	dir = 8
@@ -65182,7 +65182,7 @@
 "wyM" = (
 /obj/machinery/light/small,
 /turf/closed/wall/vampwall,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "wyU" = (
 /obj/structure/window/reinforced/indestructable{
 	alpha = 0
@@ -65345,7 +65345,7 @@
 "wCH" = (
 /obj/structure/chair/comfy/brown,
 /turf/open/floor/carpet/lone,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "wCQ" = (
 /obj/effect/decal/bordur{
 	dir = 4
@@ -65577,7 +65577,7 @@
 	lock_id = "triad"
 	},
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "wHO" = (
 /obj/effect/landmark/start{
 	name = "Police Officer"
@@ -66269,7 +66269,7 @@
 	pixel_y = 2
 	},
 /turf/open/floor/plating/concrete,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "wXX" = (
 /obj/structure/vampdoor/wood{
 	dir = 4
@@ -67954,7 +67954,7 @@
 /obj/item/ammo_box/magazine/vamp9mm,
 /obj/item/ammo_box/vampire/c9mm,
 /turf/open/floor/plating/rough,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "xPh" = (
 /obj/structure/fluff/hedge,
 /turf/open/floor/plating/parquetry/old,
@@ -68641,7 +68641,7 @@
 /area/vtm/financialdistrict)
 "yhp" = (
 /turf/closed/wall/vampwall,
-/area/vtm/interior/chinatownunderground)
+/area/vtm/interior/chinatown_basement)
 "yhv" = (
 /obj/transfer_point_vamp{
 	icon = 'icons/obj/stairs.dmi';
