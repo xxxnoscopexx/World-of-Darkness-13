@@ -17562,6 +17562,7 @@
 "bmM" = (
 /obj/effect/decal/litter,
 /obj/effect/decal/trash,
+/obj/item/melee/vampirearms/brick,
 /turf/open/floor/plating/sidewalk,
 /area/vtm/chinatown)
 "bmN" = (
@@ -24644,6 +24645,10 @@
 /obj/structure/closet,
 /turf/open/floor/plating/vampplating/mono,
 /area/vtm/clinic)
+"bQL" = (
+/obj/machinery/vending/cigarette,
+/turf/open/floor/plating/parquetry/old,
+/area/vtm/interior/casino)
 "bQW" = (
 /obj/effect/decal/bordur{
 	dir = 4
@@ -24819,6 +24824,7 @@
 /obj/structure/window/reinforced/indestructable{
 	dir = 1
 	},
+/obj/machinery/mineral/equipment_vendor/fastfood/triad,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/restaurant)
 "bUT" = (
@@ -26308,12 +26314,6 @@
 	},
 /turf/open/floor/carpet/royalblack,
 /area/vtm/interior/millennium_tower/f3)
-"cHh" = (
-/obj/vampire_car/rand{
-	access = "triad"
-	},
-/turf/open/floor/plating/asphalt,
-/area/vtm/chinatown)
 "cHo" = (
 /obj/structure/railing,
 /obj/structure/railing{
@@ -26635,8 +26635,6 @@
 /obj/item/toy/crayon/spraycan,
 /obj/item/clothing/head/beret/black,
 /obj/item/clothing/head/beret,
-/obj/item/lipstick/random,
-/obj/item/lipstick/random,
 /obj/item/lipstick/random,
 /obj/item/clothing/suit/cheongsam_red,
 /obj/item/clothing/suit/cheongsam_blue,
@@ -29416,6 +29414,8 @@
 /obj/item/clothing/under/dress/redeveninggown,
 /obj/item/clothing/suit/changshan_blue,
 /obj/item/clothing/suit/changshan_red,
+/obj/item/clothing/under/vampire/burlesque,
+/obj/item/clothing/under/vampire/burlesque,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/casino)
 "efi" = (
@@ -29677,6 +29677,12 @@
 /obj/machinery/light/small/red,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/giovanni)
+"eky" = (
+/obj/vampire_car/rand{
+	access = "triad"
+	},
+/turf/open/floor/plating/sidewalk/rich,
+/area/vtm/chinatown)
 "ekI" = (
 /obj/structure/chair/sofa/left{
 	dir = 4
@@ -46100,6 +46106,10 @@
 	},
 /turf/open/floor/plating/concrete,
 /area/vtm/interior)
+"mpV" = (
+/obj/item/melee/vampirearms/brick,
+/turf/open/floor/plating/sidewalkalt,
+/area/vtm/chinatown)
 "mqd" = (
 /obj/effect/decal/trash,
 /obj/effect/decal/cleanable/blood,
@@ -48505,7 +48515,6 @@
 "nFT" = (
 /obj/structure/table/wood/poker,
 /obj/item/food/donkpocket/teriyaki,
-/obj/structure/vampdoor/glass/laundromat,
 /turf/open/floor/plating/parquetry,
 /area/vtm/interior/laundromat)
 "nGi" = (
@@ -54523,12 +54532,6 @@
 /obj/item/screwdriver,
 /turf/open/floor/carpet/red,
 /area/vtm/interior)
-"qFm" = (
-/obj/vampire_car/retro/rand{
-	access = "triad"
-	},
-/turf/open/floor/plating/asphalt,
-/area/vtm/chinatown)
 "qFr" = (
 /obj/effect/decal/cardboard,
 /turf/open/floor/plating/vampcanalplating,
@@ -55648,6 +55651,12 @@
 /obj/structure/vampdoor/glass/pentex/low_security,
 /turf/open/floor/plating/vampplating/mono,
 /area/vtm/interior/endron_facility)
+"red" = (
+/obj/vampire_car/retro/rand{
+	access = "triad"
+	},
+/turf/open/floor/plating/sidewalk/rich,
+/area/vtm/chinatown)
 "reh" = (
 /obj/structure/railing,
 /turf/closed/wall/vampwall/rich/old,
@@ -65278,6 +65287,12 @@
 	pixel_x = 1
 	},
 /obj/item/clothing/head/rabbitears,
+/obj/item/lipstick/black,
+/obj/item/lipstick/jade,
+/obj/item/lipstick/purple,
+/obj/item/lipstick,
+/obj/item/lipstick/random,
+/obj/item/lipstick/random,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/casino)
 "vVX" = (
@@ -178060,7 +178075,7 @@ gHC
 nhb
 fNw
 fNw
-fNw
+bQL
 mnl
 bez
 bez
@@ -182646,7 +182661,7 @@ aqX
 bdL
 bdx
 bdx
-qFm
+bdx
 bef
 bez
 cZE
@@ -183417,7 +183432,7 @@ bdx
 bdL
 bdx
 bdx
-cHh
+bdx
 bef
 bez
 cZE
@@ -186513,9 +186528,9 @@ bfW
 gQG
 bfW
 bfW
+eky
 bfW
-bfW
-bfW
+red
 bfW
 bfW
 bfW
@@ -190378,7 +190393,7 @@ bgs
 bgs
 bgs
 bgs
-bfU
+mpV
 bfU
 ajs
 ajs
@@ -190388,7 +190403,7 @@ ajs
 ajs
 ajs
 xeZ
-bfU
+mpV
 bjN
 beL
 beO
