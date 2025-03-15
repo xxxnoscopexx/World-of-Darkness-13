@@ -261,7 +261,7 @@
 /obj/item/reagent_containers/glass/bottle/wizarditis
 	name = "Wizarditis culture bottle"
 	desc = "A small bottle. Contains a sample of Rincewindus Vulgaris."
-	spawned_disease = /datum/disease/anxiety //Random disease. This is never going to run anyways unless admins
+	spawned_disease = /datum/disease/wizarditis
 
 /obj/item/reagent_containers/glass/bottle/anxiety
 	name = "Severe Anxiety culture bottle"
